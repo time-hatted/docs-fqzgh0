@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-hh984y.date-me.pro/sitemap.xml
